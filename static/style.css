@@ -1,0 +1,41 @@
+*{
+    font-family: geneva;
+}
+#top{
+    border-bottom: 1px solid black;
+    width: 90%;
+}
+input, textarea{
+    display: block;
+    margin-bottom: 2em;
+}
+textarea{
+    width: 60%;
+    height: 10em;
+}
+h5, .comment_input {
+    margin-left: 12%;
+}
+#post {
+    color:white;
+    background-color: blue;
+    margin-left: 36.7%;
+    width:15em;
+    height: 3em;
+}
+.comment_text {
+    width: 40%;
+    height: 6em;
+    margin-left: 12%;
+}
+.margin{
+    margin-left: 12%;
+    margin-bottom: -.1em;
+}
+.post2 {
+    color:white;
+    background-color: green;
+    margin-left: 33.2%;
+    width:12em;
+    height: 2.5em;
+}
